@@ -1,0 +1,111 @@
+body {
+  background-color: #e6eff6;
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+}
+
+footer {
+  clear:both;
+}
+
+h1 {
+  color:	#2ab2af;
+  padding: 3% 0 0 40px;
+  font-weight: 700;
+}
+
+h2 {
+  color:#c0df34;
+  padding: 0 0 0 40px;
+  font-weight: 700;
+}
+
+h3 {
+  color: white;
+  padding: 20px 0 0 40px;
+  font-weight: 700;
+}
+
+
+.access {
+  color: white;
+  margin-bottom: 60px;
+  padding: 0 0 0 40px;
+}
+
+.bottom_left_container {
+  background-color: #2bb3b1;
+  border-bottom-left-radius: 8px;
+  float: left;
+  height: 60%;
+  width: 50%;
+}
+
+.bottom_right_container {
+  background-color: #4abebd;
+  border-bottom-right-radius: 8px;
+  float: left;
+  height: 60%;
+  width: 50%;
+}
+
+.btn {
+  background-color: #c0df34;
+  border-radius: 8px;
+  box-shadow: -2px 2px 50px black;
+  color: white;
+  margin: 20px 0 0 40px;
+  padding: 16px 90px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn:hover {
+  box-shadow: 0 0 0 black;
+  background-color: #c2eb0b;
+}
+
+.dollar {
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+  padding: 0 0 0 40px;
+}
+
+.gain {
+  color: #98a6bd;
+  padding: 0 0 0 40px;
+  line-height: 2;
+}
+
+.main_container {
+  border-radius: 8px;
+  box-shadow: -40px 100px 50px grey;
+  height: 500px;
+  position: absolute;
+  left: 30%;
+  top: 25%;
+  width: 600px;
+}
+
+.month {
+  color: #e5eff5;
+  font-weight: 100;
+  position: relative;
+  bottom: 5px;
+}
+
+.reasons {
+  color: #e5eff5;
+  font-weight: lighter;
+  line-height: 1.6;
+  padding: 0 0 0 40px;
+}
+
+.top_container {
+  background-color: white;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  height: 40%;
+  margin: 0;
+}
